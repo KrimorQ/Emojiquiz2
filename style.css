@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+#lives {
+  margin-bottom: 1rem;
+}
+
+#streak {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+#hints {
+  margin-bottom: 0.5rem;
+}
+
+#puzzle {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+#message {
+  margin-top: 1rem;
+  font-weight: bold;
+}
